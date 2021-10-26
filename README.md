@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Susana8ar
 - 👀 I’m interested in hydro-meteorology. Specific topics of interest include rainfall monitoring and modelling, urban drainage modelling and management, citizen science for water management, amongst others.
-- 🌱 I’m currently learning Python and familiarising myself with other data science tools - as I move away from Matlab & VB.
-- 💞️ Not sure what I’m looking to collaborate on as yet. I plan to initially work on small personal/professional projects.
+- 🌱 I’m currently transitioning to Python from Matlab, while also familiarising myself with other data science tools.
+- 💞️ (TBC).
 - 📫 Susana.Ochoa-Rodriguez@rainplusplus.com
 
 <!---
